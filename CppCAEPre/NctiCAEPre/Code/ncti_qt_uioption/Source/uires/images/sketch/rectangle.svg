@@ -1,0 +1,15 @@
+<svg width="72.000000" height="71.999710" viewBox="0 0 72 71.9997" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="35.894352" y1="14.741821" x2="35.894352" y2="57.241127" id="paint_linear_895_22824_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#E2EDFD"/>
+			<stop offset="1.000000" stop-color="#F0F6FF" stop-opacity="0.074510"/>
+		</linearGradient>
+	</defs>
+	<path id="矩形 643" d="M61.05 57.24L13.6 57.24L13.6 54.52L10.88 54.52L10.71 14.74L58.41 14.74L58.42 17.47L61.07 17.48L61.05 57.24Z" fill="url(#paint_linear_895_22824_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形 643 (边框)" d="M13.6 54.52L13.6 57.24L16.17 57.24L61.05 57.24L61.07 17.48L58.42 17.47L58.41 14.74L13.28 14.74L10.71 14.74L10.72 17.31L10.88 54.52L13.6 54.52ZM58.48 54.66L16.17 54.66L16.17 51.94L13.44 51.94L13.29 17.31L55.85 17.31L55.85 20.03L58.49 20.04L58.48 54.66Z" fill="#394660" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形 644 (边框)" d="M68.71 7.18L55.64 7.18L55.64 20.25L68.71 20.25L68.71 7.18ZM58.21 17.68L58.21 9.75L66.14 9.75L66.14 17.68L58.21 17.68Z" fill="#394660" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形 645 (边框)" d="M16.36 51.74L3.28 51.74L3.28 64.81L16.36 64.81L16.36 51.74ZM5.86 62.24L5.86 54.31L13.78 54.31L13.78 62.24L5.86 62.24Z" fill="#394660" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>

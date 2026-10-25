@@ -1,0 +1,17 @@
+QWidget#nctiBaseDialogTitleBar{
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border: none;
+	background: #FBFCFE;
+}
+
+QLabel#nctiBaseDialogTitle{
+	color: #52555A;
+	font-family: "HarmonyOS Sans SC";
+	font-size: 16px;
+	margin-left: 16px;
+}
+
+QFrame#frame{
+	border-top: 1px solid rgb(240, 242, 247);
+}

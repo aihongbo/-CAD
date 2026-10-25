@@ -1,0 +1,36 @@
+﻿QFrame#nctiBaseDialogFrame{
+	border: 1px solid #DEE3ED;
+	border-radius: 8px;
+	padding-top: 0px;
+	padding-left: 0px;
+    background-color: #FFFFFF;
+}
+
+QWidget#nctiBaseDialogTitleBar{
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 rgb(243, 245, 248), stop: 1 rgb(210, 213, 216));
+	padding: 0px;
+}
+
+QLabel#nctiBaseDialogTitle{
+	color: rgb(81, 84, 87);
+	font-family: "HarmonyOS Sans SC";
+	font-size: 12px;
+	margin-left: 9px;
+}
+
+QPushButton#nctiBaseDialogCloseButton{
+	border:none;
+	image: url(:/images/common/close.svg);
+	min-width: 16px;
+	max-width: 16px;
+	min-height: 16px;
+	max-height: 16px;
+	padding: 4px;
+	border-radius: 4px;
+}
+
+QPushButton#nctiBaseDialogCloseButton:hover{
+	background-color: #17000000;
+}

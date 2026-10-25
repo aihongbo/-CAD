@@ -1,0 +1,299 @@
+/* sketchDialog.qss*/
+/* WorkPlaneDlg,工作平面*/
+NCTI--WorkPlaneDlg #popup-dialog-title-bar{
+    background-color: rgb(251, 252, 254);
+    min-height: 30px;
+    max-height: 30px;
+    padding: 0px;
+    border: none;
+    border-top-left-radius: 8px;  /* 左上角圆角 */
+    border-top-right-radius: 8px; /* 右上角圆角 */
+}
+
+NCTI--WorkPlaneDlg #popup-dialog-title{
+    color: rgb(82, 85, 90);
+    font-size: 16px;
+    line-height: 16px;
+    font-family: "HarmonyOS Sans SC";
+    padding-left: 6px;
+}
+
+NCTI--WorkPlaneDlg #WorkPlaneDlg{
+    background-color: rgb(251, 252, 254);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    border: none;
+}
+
+QWidget #group_Widget{
+    border: 1px solid rgb(230, 232, 236);
+    border-left: none;
+    border-right: none;
+}
+
+NCTI--WorkPlaneDlg #WorkPlaneDlg QGroupBox {
+    border: none;
+    color: rgb(124, 129, 135);
+    font-size: 12px;
+    font-family: "Source Han Sans";
+}
+
+NCTI--WorkPlaneDlg #WorkPlaneDlg QLabel {
+    border: none;
+    color: rgb(124, 129, 135);
+    font-size: 12px;
+    font-family: "Source Han Sans";
+}
+
+NCTI--WorkPlaneDlg #WorkPlaneDlg QLineEdit {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(230, 232, 236);
+    border-radius: 2px;
+    color: rgb(81, 84, 87);
+    font-size: 12px;
+    font-family: "Source Han Sans";
+    width: 240px;
+    height: 24px;
+    padding-left: 7px;
+}
+
+QPushButton#work-plane-preview{
+    background-color: rgb(242, 244, 250);
+    border: 1px solid rgb(23, 113, 248);
+    border-radius: 4px;
+    color: rgb(28, 114, 243);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    height: 32px;
+}
+
+QPushButton#work-plane-cancel{
+    background-color: rgb(251, 252, 254);
+    border: 1px solid rgb(28, 114, 243);
+    border-radius: 4px;
+    color: rgb(28, 114, 243);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    width: 76px;
+    height: 36px;
+}
+
+QPushButton#work-plane-ok{
+    background-color: rgb(28, 114, 243);
+    border: none;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    width: 76px;
+    height: 36px;
+}
+
+/* ExtrudeDlg,拉伸*/
+NCTI--ExtrudeDlg #popup-dialog-title-bar{
+    background-color: rgb(251, 252, 254);
+    min-height: 30px;
+    max-height: 30px;
+    padding: 0px;
+    border: none;
+    border-top-left-radius: 8px;  /* 左上角圆角 */
+    border-top-right-radius: 8px; /* 右上角圆角 */
+}
+
+NCTI--ExtrudeDlg #popup-dialog-title{
+    color: rgb(82, 85, 90);
+    font-size: 16px;
+    font-family: "HarmonyOS Sans SC";
+    padding-left: 4px;
+}
+
+NCTI--ExtrudeDlg #ExtrudeDlg{
+    background-color: rgb(251, 252, 254);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+
+QWidget #p_widget{
+    border: 1px solid rgb(230, 232, 236);
+    border-left: none;
+    border-right: none;
+}
+
+NCTI--ExtrudeDlg #ExtrudeDlg QLabel {
+    border: none;
+    color: rgb(124, 129, 135);
+    font-size: 12px;
+    font-family: "Source Han Sans";
+}
+
+NCTI--ExtrudeDlg #ExtrudeDlg QLineEdit {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(230, 232, 236);
+    border-radius: 2px;
+    color: rgb(81, 84, 87);
+    font-size: 12px;
+    font-family: "Source Han Sans";
+    width: 240px;
+    height: 24px;
+    padding-left: 7px;
+}
+NCTI--ExtrudeDlg #ExtrudeDlg QLineEdit#Use_Angle {
+    width: 108px;
+}
+QLineEdit:disabled#Use_Angle
+{
+    color: rgb(207, 211, 217);
+}
+
+NCTI--ExtrudeDlg #ExtrudeDlg QCheckBox {
+    color: rgb(124, 129, 135);
+    font-size: 12px;
+    font-family: "HarmonyOS Sans SC";
+}
+NCTI--ExtrudeDlg #ExtrudeDlg QCheckBox:indicator:enabled:unchecked {
+    image: url(:/Sketch/unchecked.png);
+}
+NCTI--ExtrudeDlg #ExtrudeDlg QCheckBox:indicator:enabled:checked {
+    image: url(:/Sketch/checked.png);
+}
+
+QPushButton#modetails-preview-button {
+    background-color: rgb(242, 244, 250);
+    border: 1px solid rgb(23, 113, 248);
+    border-radius: 4px;
+    color: rgb(28, 114, 243);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    height: 32px;
+}
+
+QPushButton#modetails-cancel-button {
+    background-color: rgb(251, 252, 254);
+    border: 1px solid rgb(28, 114, 243);
+    border-radius: 4px;
+    color: rgb(28, 114, 243);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    width: 76px;
+    height: 36px;
+}
+
+QPushButton#modetails-ok-button {
+    background-color: rgb(28, 114, 243);
+    border: none;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    width: 76px;
+    height: 36px;
+}
+
+/* RevolveDlg,旋转*/
+NCTI--RevolveDlg #popup-dialog-title-bar{
+    background-color: rgb(251, 252, 254);
+    min-height: 30px;
+    max-height: 30px;
+    padding: 0px;
+    border: none;
+    border-top-left-radius: 8px;  /* 左上角圆角 */
+    border-top-right-radius: 8px; /* 右上角圆角 */
+}
+
+NCTI--RevolveDlg #popup-dialog-title{
+    color: rgb(82, 85, 90);
+    font-size: 16px;
+    font-family: "HarmonyOS Sans SC";
+    padding-left: 4px;
+}
+
+NCTI--RevolveDlg #RevolveDlg{
+    background-color: rgb(251, 252, 254);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+
+NCTI--RevolveDlg #RevolveDlg QLabel {
+    border: none;
+    color: rgb(124, 129, 135);
+    font-size: 12px;
+    font-family: "Source Han Sans";
+}
+
+NCTI--RevolveDlg #RevolveDlg QLineEdit {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(230, 232, 236);
+    border-radius: 2px;
+    color: rgb(81, 84, 87);
+    font-size: 12px;
+    font-family: "Source Han Sans";
+    width: 240px;
+    height: 24px;
+    padding-left: 7px;
+}
+NCTI--RevolveDlg #RevolveDlg QLineEdit#Use_Angle {
+    width: 108px;
+}
+QLineEdit:disabled#Use_Angle
+{
+    color: rgb(207, 211, 217);
+}
+
+NCTI--RevolveDlg #RevolveDlg QCheckBox {
+    color: rgb(124, 129, 135);
+    font-size: 12px;
+    font-family: "HarmonyOS Sans SC";
+}
+NCTI--RevolveDlg #RevolveDlg QCheckBox:indicator:enabled:unchecked {
+    image: url(:/Sketch/unchecked.png);
+}
+NCTI--RevolveDlg #RevolveDlg QCheckBox:indicator:enabled:checked {
+    image: url(:/Sketch/checked.png);
+}
+
+NCTI--RevolveDlg #RevolveDlg QFrame#line {
+    color: rgb(230, 232, 236);  /* 分隔线颜色 */
+}
+
+QPushButton#revolve_preview_button {
+    background-color: rgb(242, 244, 250);
+    border: 1px solid rgb(23, 113, 248);
+    border-radius: 4px;
+    color: rgb(28, 114, 243);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    height: 32px;
+}
+
+QPushButton#revolve_cancel_button {
+    background-color: rgb(251, 252, 254);
+    border: 1px solid rgb(28, 114, 243);
+    border-radius: 4px;
+    color: rgb(28, 114, 243);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    width: 76px;
+    height: 36px;
+}
+
+QPushButton#revolve_ok_button {
+    background-color: rgb(28, 114, 243);
+    border: none;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+    width: 76px;
+    height: 36px;
+}

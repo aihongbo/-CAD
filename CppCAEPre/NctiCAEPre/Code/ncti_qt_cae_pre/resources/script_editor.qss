@@ -1,0 +1,275 @@
+/* 脚本编辑器与控制台样式*/
+
+NCTI--NctiQtPythonScriptEdit{
+	background: rgb(245, 246, 248);
+}
+NCTI--NctiQtPythonScriptEdit #frame_buttonBackground{
+	background: rgb(245, 246, 248);
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+NCTI--NctiQtPythonScriptEdit QWidget#widget_indicator{
+    min-width: 1px;
+    max-width: 1px;
+    min-height: 24px;
+    max-height: 24px;
+    background-color: rgb(222, 227, 237);
+}
+NCTI--NctiQtPythonScriptEdit #frame_buttonBackground>QPushButton{
+	border: 1px solid transparent;
+    border-radius: 2px;
+    min-width: 24px;
+    max-width: 24px;
+    min-height: 38px;
+    max-height: 38px;
+    padding: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+
+    image-position: top;
+    padding-top: 2px;
+
+    text-align: bottom;
+    padding-bottom:2px;
+    font-size: 12px;
+    color: rgb(119, 123, 128);
+}
+NCTI--NctiQtPythonScriptEdit #frame_buttonBackground>QToolButton{
+	border: 1px solid transparent;
+    border-radius: 2px;
+    min-width: 38px;
+    max-width: 38px;
+    min-height: 42px;
+    max-height: 42px;
+
+    color: rgb(119, 123, 128);
+}
+
+NCTI--NctiQtPythonScriptEdit #frame_buttonBackground>QPushButton:hover{
+    background-color: rgb(197, 219, 251);
+    color: rgb(28, 114, 243);
+}
+NCTI--NctiQtPythonScriptEdit #frame_buttonBackground>QPushButton:pressed{
+    background-color: rgb(159, 195, 249);
+    color: rgb(28, 114, 243);
+}
+NCTI--NctiQtPythonScriptEdit #frame_buttonBackground #pushButton_cleanScript{
+    image: url(:/ScriptEditor/clear.png);
+}
+NCTI--NctiQtPythonScriptEdit #frame_buttonBackground #pushButton_runScript{
+    image: url(:/ScriptEditor/excute.png);
+}
+
+NCTI--NctiQtPythonScriptEdit QToolButton#pushButton_custom{
+    qproperty-icon: url(:/ScriptEditor/custom.png);
+    qproperty-iconSize: 24px 24px;
+    padding-right: 3px;
+    background-color: rgb(225, 229, 234);
+    font-size: 12px;
+    color: rgb(119, 123, 128);
+}
+NCTI--NctiQtPythonScriptEdit QToolButton#pushButton_loadLast{
+    qproperty-icon: url(:/ScriptEditor/last.png);
+    qproperty-iconSize: 23px 23px;
+    padding-right: 3px;
+    background-color: rgb(225, 229, 234);
+    font-size: 12px;
+    color: rgb(119, 123, 128);
+}
+NCTI--NctiQtPythonScriptEdit QToolButton#pushButton_breakpoint{
+    qproperty-icon: url(:/ScriptEditor/breakpoint.png);
+    qproperty-iconSize: 23px 23px;
+    padding-right: 3px;
+    background-color: rgb(225, 229, 234);
+    font-size: 12px;
+    color: rgb(119, 123, 128);
+}
+
+NCTI--NctiQtPythonScriptEdit QToolButton#pushButton_custom:hover,
+NCTI--NctiQtPythonScriptEdit QToolButton#pushButton_loadLast:hover,
+NCTI--NctiQtPythonScriptEdit QToolButton#pushButton_breakpoint:hover{
+    background-color: rgb(235, 243, 254);
+    color: rgb(28, 114, 243);
+}
+NCTI--NctiQtPythonScriptEdit QToolButton::menu-indicator{
+    width: 6px;
+    height: 24px;
+    border: 1px solid transparent;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    image:url(:/ScriptEditor/tool_menu_indicator.png);
+    background-color: rgb(225, 229, 234);
+    subcontrol-position: right top;
+    subcontrol-origin: padding;
+    padding-right: 2px;
+    padding-left: 2px;
+    margin-right: -1px;
+}
+NCTI--NctiQtPythonScriptEdit QToolButton::menu-indicator:hover{
+    image:url(:/ScriptEditor/tool_menu_indicator_hover.png);
+    background-color: rgb(197, 219, 251);
+}
+
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToTop,
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToBottom{
+    border:none;
+    min-width:18px;
+    max-width:18px;
+    min-height:18px;
+    max-height:18px;
+    padding: 3px;
+    background-color: rgba(0,0,0,0.2);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToTop:hover,
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToBottom:hover{
+    background-color: rgba(0,0,0,0.3);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToTop{
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    image: url(:/ScriptEditor/scroll_to_top.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToBottom{
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    image: url(:/ScriptEditor/scroll_to_bottom.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToTop:disabled{
+    background-color: rgba(0,0,0,0.2);
+    image: url(:/ScriptEditor/scroll_to_top_disable.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_scrollToBottom:disabled{
+    background-color: rgba(0,0,0,0.2);
+    image: url(:/ScriptEditor/scroll_to_bottom_disable.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_debugStart{
+    image: url(:/ScriptEditor/debug_start.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_debugStart:disabled{
+    image: url(:/ScriptEditor/debug_start_disable.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_debugStop{
+    image: url(:/ScriptEditor/debug_stop.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_debugStop:disabled{
+    image: url(:/ScriptEditor/debug_stop_disable.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_open{
+    image: url(:/ScriptEditor/open.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_open:disabled{
+    image: url(:/ScriptEditor/open_disable.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_save{
+    image: url(:/ScriptEditor/saveas.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_save:disabled{
+    image: url(:/ScriptEditor/saveas_disable.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_close{
+    image: url(:/ScriptEditor/close.png);
+}
+NCTI--NctiQtPythonScriptEdit QPushButton#pushButton_close:disabled{
+    image: url(:/ScriptEditor/close_disable.png);
+}
+NCTI--NctiQtPythonScriptEdit QTabWidget::pane{
+	border:none;
+}
+NCTI--NctiQtPythonScriptEdit QTabBar::tab {
+	background: rgba(0, 0, 0, 0.05);
+	width: 96.95px;
+	min-height: 17px;
+	border-right: 1px solid rgba(0, 0, 0, 0.1);
+	color: rgb(42, 43, 45);
+	font-family: "HarmonyOS Sans SC";
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 10px;
+}
+NCTI--NctiQtPythonScriptEdit QTabBar::tab:selected {
+	background: white;
+	border-bottom: 1px solid rgb(23, 113, 248);
+}
+NCTI--NctiQtPythonScriptEdit QTextEdit{
+	border: 1px solid rgb(230, 232, 236);
+	background: rgb(255, 255, 255);
+    font-family: "HarmonyOS Sans", "HarmonyOS Sans SC";
+}
+NCTI--NctiQtPythonScriptEdit QTabBar #pushButton_close{
+	border:none;
+	image: url(:/Common/dock_close.svg);
+	min-width: 12px;
+	max-width: 12px;
+	min-height: 12px;
+	max-height: 12px;
+	border-radius: 4px;
+	padding: 3px;
+	margin-top: 2px;
+	margin-bottom: 4px;
+}
+NCTI--NctiQtPythonScriptEdit QTabBar #pushButton_close:hover{
+	background-color: #17000000;
+}
+NCTI--NctiQtPythonScriptEdit QTabBar #pushButton_close:pressed{
+	background-color: #1f000000;
+}
+NCTI--NctiQtPythonScriptEdit QListView,
+NCTI--NctiQtCommandConsole QListView{
+	border: 1px solid rgb(182, 183, 185);
+}
+NCTI--NctiQtPythonScriptEdit QListView::item:selected,
+NCTI--NctiQtCommandConsole QListView::item:selected{
+	background: #1771F8;
+	color: white;
+}
+
+NCTI--NctiQtPythonScriptEdit QMenu {
+    background-color: #FBFCFE;
+    border: 1px solid rgba(102, 119, 153, 0.15);
+    padding: 1px ;
+}
+NCTI--NctiQtPythonScriptEdit QMenu::item {
+    font-family: "HarmonyOS Sans", "HarmonyOS Sans SC";
+    font-size: 14px;
+    color: #52555A;
+    min-height: 36px;
+    min-width: 140px;
+    border-radius: 1px;
+    padding: 0px 14px 0px 14px;
+}
+NCTI--NctiQtPythonScriptEdit QMenu::icon {
+    min-width: 36px;
+    min-height: 36px;
+}
+NCTI--NctiQtPythonScriptEdit QMenu::item:selected:!disabled {
+    background-color: rgba(102, 121, 168, 0.08);
+    background-color: qlineargradient(x1: 0, y1: 1, x2: 0, y2: 0, stop: 0 rgba(102, 121, 168, 0.08), stop: 1.0 rgba(102, 121, 168, 0.11));
+}
+NCTI--NctiQtPythonScriptEdit QMenu::item:disabled {
+    color: #c5c5c5;
+}
+
+/* ====================================================================================================*/
+/* 控制台 */
+NCTI--NctiQtCommandConsole{
+	border: 1px solid rgb(230, 232, 236);
+	background: rgb(255, 255, 255);
+	font-family: "HarmonyOS Sans SC";
+	border-top: none;
+	border-bottom-color: transparent;
+}
+NCTI--NctiQtCommandConsole QLineEdit{
+    font-family: "HarmonyOS Sans", "HarmonyOS Sans SC";
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 12px;
+	padding: 2px 10px 2px 20px;
+	border: 1px solid rgb(230, 232, 236);
+	border-top-color: transparent;
+	background: rgb(255, 255, 255);
+}
+NCTI--NctiQtCommandConsole QLineEdit:focus{
+	background-color: rgb(248, 248, 248);
+}
+/* ====================================================================================================*/

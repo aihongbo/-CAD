@@ -1,0 +1,395 @@
+/* options.qss*/
+NCTI--OptionsDlg #newOptionsDlg{
+    background-color: rgb(240, 242, 247);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(226, 231, 240);
+}
+NCTI--OptionsDlg #popup-dialog-title-bar{
+    min-height: 30px;
+    max-height: 30px;
+    padding: 0px;
+    border: 1px solid rgb(226, 231, 240);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+NCTI--OptionsDlg #popup-dialog-title{
+    color: rgb(60, 63, 67);
+    font-family: "HarmonyOS Sans SC";
+    font-size: 16px;
+    line-height: 30px;
+}
+
+NCTI--OptionsDlg #newOptionsDlg QPushButton {
+    background-color: transparent;
+    color: rgb(28, 114, 243);
+    border: 1px solid rgb(28, 114, 243);
+    border-radius: 3px;
+    padding: 3px 10px;
+    font-size: 14px;
+}
+
+NCTI--OptionsDlg #newOptionsDlg QLabel {
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+}
+
+NCTI--OptionsDlg #newOptionsDlg QPushButton#pushButton_save {
+    color: rgb(255, 255, 255);
+    background-color: rgb(28, 114, 243);
+}
+
+NCTI--OptionsDlg #newOptionsDlg QPushButton#pushButton_restore_default {
+    background-color: rgb(255, 255, 255);
+}
+
+NCTI--OptionsDlg #newOptionsDlg QPushButton#face_Button,
+NCTI--OptionsDlg #newOptionsDlg QPushButton#edge_Button,
+NCTI--OptionsDlg #newOptionsDlg QPushButton#vertex_Button {
+    border-style: none;
+    border-radius: 0px;
+    background-color: transparent;
+}
+
+NCTI--OptionsDlg #newOptionsDlg QPushButton#browseButton_pythonScriptPath,
+NCTI--OptionsDlg #newOptionsDlg QPushButton#browseButton_pythonPath,
+NCTI--OptionsDlg #newOptionsDlg QPushButton#browseButton_backupPath {
+    background-color: rgb(255, 255, 255);
+}
+
+NCTI--OptionsDlg #newOptionsDlg QPushButton#browseButton_addTestCasePath,
+NCTI--OptionsDlg #newOptionsDlg QPushButton#browseButton_addLoadingPlugins {
+    color: rgb(255, 255, 255);
+    background-color: rgb(28, 114, 243);
+}
+
+QWidget #colorSetting_Widget {
+    border-bottom: 1px solid rgb(222, 227, 237);
+}
+
+QStackedWidget {
+    background-color: transparent;
+}
+
+QProgressBar {
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(240, 242, 247);
+}
+QProgressBar::chunk {
+    background-color: rgb(203, 210, 226);
+    width: 20px;
+}
+QProgressBar::text {
+    visibility: hidden;
+}
+
+NCTI--OptionsDlg #newOptionsDlg QLineEdit {
+    background-color: rgb(255, 255, 255);
+    color: rgb(154, 160, 168);
+    border: 1px solid rgb(228, 233, 240);
+    border-radius: 4px;
+    font-family: "HarmonyOS Sans SC";
+    font-size: 14px;
+    height: 25px;
+    padding-left: 4px;
+}
+
+NCTI--OptionsDlg #newOptionsDlg QLineEdit#time_LineEdit {
+    color: rgb(82, 85, 90);
+}
+
+NCTI--OptionsDlg #newOptionsDlg QTreeWidget#tree_Widget {
+    border: 1px solid rgb(228, 233, 240);
+}
+
+QRadioButton {
+    color: rgb(154, 160, 168);
+    font-size: 14px;
+} 
+QRadioButton::indicator:checked {
+    border-radius: 8px;                
+    image: url(:/Option/r_checked.png); 
+}
+QRadioButton::indicator:unchecked {
+    background-color: transparent;
+    image: url(:/Option/r_unchecked.png); 
+    border-radius: 8px;          
+}
+
+QRadioButton#displayOperatingAxise_Button,
+QRadioButton#displayFrameRate_Button {
+    color: rgb(82, 85, 90);
+}
+QRadioButton#hideOperatingAxise_Button,
+QRadioButton#hideFrameRate_Button {
+    color: rgb(60, 63, 67);
+}
+
+NCTI--OptionsDlg #newOptionsDlg QComboBox {
+    background-color: rgb(255, 255, 255); 
+    border: 1px solid rgb(228, 233, 240);
+    border-radius: 4px;
+    color: rgb(82, 85, 90);
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+}
+
+NCTI--OptionsDlg #newOptionsDlg QComboBox#lineType_ComBox {
+    height: 25px;
+}
+
+NCTI--OptionsDlg #newOptionsDlg QComboBox::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 12px;
+    right: 10px;
+    border: none;
+}
+NCTI--OptionsDlg #newOptionsDlg QComboBox::down-arrow {
+    image: url(:/Option/dropDownIcon.png);
+    width: 12px;
+}
+NCTI--OptionsDlg #newOptionsDlg QComboBox QAbstractItemView {
+    background: rgb(251, 252, 254);
+    border-radius: 2px;
+    border: 1px solid rgb(228, 233, 240);
+    color: rgb(82, 85, 90);
+    outline: none;
+}
+NCTI--OptionsDlg #newOptionsDlg QComboBox QAbstractItemView::item {
+    background-color: rgb(251, 252, 254);
+    height: 30px;
+    padding-left: 6px;
+    font-size: 14px;
+    color: rgb(82, 85, 90);
+    outline: none;
+}
+NCTI--OptionsDlg #newOptionsDlg QComboBox QAbstractItemView::item:hover { 
+    background-color: rgb(239, 241, 247);
+    color: rgb(82, 85, 90);
+}
+
+NCTI--OptionsDlg #newOptionsDlg QCheckBox { 
+    background-color: transparent; 
+    color: rgb(60, 63, 67);
+    font-size: 14px;
+}
+
+/*SelectColorWidget相关设置*/
+SelectColorWidget {
+    background: rgb(255, 255, 255);
+    border-radius: 4px;
+}
+
+ColorLineEdit#red_ColorProportionNum,
+ColorLineEdit#green_ColorProportionNum,
+ColorLineEdit#blue_ColorProportionNum {
+    border: none;
+    background: transparent;
+    color: rgb(82, 85, 90);
+    font-size: 13px;
+    padding-top: 2px;
+}
+ColorLineEdit#colorName_ColorLineEdit {
+    background-color: rgb(240, 242, 247);
+    border: none;
+    border-radius: 5px;
+    color: rgb(82, 85, 90);
+    qproperty-alignment:AlignHCenter;
+    font-size: 13px;
+}
+
+QLabel#red_ColorProportion,
+QLabel#green_ColorProportion,
+QLabel#blue_ColorProportion {
+    color: rgb(82, 85, 90);
+    font-size: 12px;
+}
+
+/*AddLoadingDLLWidget相关*/
+NCTI--AddLoadingDLLWidget #AddLoadingDLLDlg QLabel#selectPluginPath_lab,
+NCTI--AddLoadingDLLWidget #AddLoadingDLLDlg QLabel#selectPlugin_lab {
+    font-family: "HarmonyOS Sans SC";
+    font-size: 14px;
+}
+
+NCTI--AddLoadingDLLWidget #AddLoadingDLLDlg QLineEdit#selectPluginPath_Edit,
+NCTI--AddLoadingDLLWidget #AddLoadingDLLDlg QLineEdit#selectPlugin_Edit {
+    background-color: rgb(255, 255, 255);
+    color: rgb(154, 160, 168);
+    border: 1px solid rgb(228, 233, 240);
+    border-radius: 4px;
+    font-family: "HarmonyOS Sans SC";
+    font-size: 14px;
+    height: 25px;
+    padding-left: 4px;
+}
+
+NCTI--AddLoadingDLLWidget #AddLoadingDLLDlg QPushButton#selectPlugin_Btn,
+NCTI--AddLoadingDLLWidget #AddLoadingDLLDlg QPushButton#cancel_Btn {
+    background-color: transparent;
+    color: rgb(28, 114, 243);
+    border: 1px solid rgb(28, 114, 243);
+    border-radius: 3px;
+    padding: 3px 10px;
+    font-size: 14px;
+}
+
+NCTI--AddLoadingDLLWidget #AddLoadingDLLDlg QPushButton#confirm_Btn {
+    color: rgb(255, 255, 255);
+    background-color: rgb(28, 114, 243);
+    border: 1px solid rgb(28, 114, 243);
+    border-radius: 3px;
+    padding: 3px 10px;
+    font-size: 14px;
+}
+
+/*ModelColorPreviewWidget相关设置*/
+ModelColorPreviewWidget {
+    background: rgb(222, 227, 237);
+}
+
+/*选项列表相关设置*/
+QFrame#optionsItem_Frame {
+    background-color: rgb(251,252,254);
+}
+
+QListView#optionsItem_ListView {
+    background-color: rgb(251,252,254);
+    border: none;
+    font-size: 14px;
+    font-family: "HarmonyOS Sans SC";
+}
+QListView#optionsItem_ListView:focus {
+    outline: 0px;
+}
+QListView#optionsItem_ListView::item {
+    border: none;
+    padding: 10px;
+    color: rgb(82, 85, 90);
+}
+QListView#optionsItem_ListView::item:selected {
+    background-color: rgb(242, 244, 250);
+    color: rgb(28, 114, 243);    
+    font-weight: bold;
+    border-radius: 5px;
+}
+QListView#optionsItem_ListView::item:focus { 
+    outline: none; 
+}
+
+QLabel#theme_Color_Label, 
+QLabel#multilingual_Label,
+QLabel#colorTitle_Label,
+QLabel#objectDisplayMode_Label,
+QLabel#operatingAxise_Label,
+QLabel#pythonScriptPath_Label,
+QLabel#pythonPath_Label,
+QLabel#loadingPlugins_Label,
+QLabel#console_Label,
+QLabel#scriptEditor_Label,
+QLabel#openOrCloseBackups_Label,
+QLabel#backupInterval_Label,
+QLabel#backupPath_Label,
+QLabel#modelLineSetting_Lab,
+QLabel#modelLineType_Lab,
+QLabel#modelLineWidth_Lab,
+QLabel#modelFaceSetting_Lab,
+QLabel#modelBackFaceColorSetting_Lab,
+QLabel#HighlightContourSetting_Lab,
+QLabel#HighlightContourColor_Lab,
+QLabel#DisplayFrameRate_Lab {
+    color: rgb(60, 63, 67);
+}
+
+
+QGroupBox#testCaseModePathGroup,
+QGroupBox#pythonScriptPathGroup {
+    font-size: 16px;
+    font-family: "HarmonyOS Sans SC";
+    color: rgb(60, 63, 67);
+}
+
+QLabel#modeTitle_Label,
+QLabel#LightingTitle_Label,
+QLabel#sketchDrawingTitle_Label,
+QLabel#backgroundColorPreview_Label,
+QLabel#renderSetting_Lab {
+    color: rgb(171, 177, 186);
+}
+
+QLabel#select_Theme_Label,
+QLabel#select_Language_Label,
+QLabel#backgroundColor_Label,
+QLabel#modeColor_Label,
+QLabel#LightingColor_Label,
+QLabel#sketchDrawingColor_Label,
+QLabel#DisplayMode_Label,
+QLabel#PathSelect_Label {
+    color: rgb(82, 85, 90);
+}
+
+QLabel#time_Label {
+    color: rgb(154, 160, 168);
+}
+
+QListWidget#testCasePath_ListWidget,
+QListWidget#loadingPlugins_ListWidget {
+    background-color: rgb(255,255,255);
+    border: 1px solid rgb(228, 233, 240);
+    border-radius: 4px;
+    color: rgb(154, 160, 168);
+    padding: 2px;
+}
+QListWidget#testCasePath_ListWidget::item,
+QListWidget#loadingPlugins_ListWidget::item {
+    background-color: rgb(255, 255, 255);
+    color: rgb(154, 160, 168);
+    padding: 2px;
+}
+QListWidget#testCasePath_ListWidget::item:hover,
+QListWidget#loadingPlugins_ListWidget::item:hover {
+    background-color: rgb(239, 241, 247); 
+    color: rgb(154, 160, 168);
+}
+QListWidget#testCasePath_ListWidget::item:selected,
+QListWidget#loadingPlugins_ListWidget::item:selected {
+    background-color: rgb(239, 241, 247); 
+    color: rgb(154, 160, 168);
+}
+QListWidget#testCasePath_ListWidget:focus, 
+QListWidget#loadingPlugins_ListWidget:focus { 
+    outline: none; 
+}
+
+/*不启用时，无效的控件样式*/
+QLabel:disabled#backupInterval_Label,
+QLabel:disabled#backupPath_Label,
+QLabel:disabled#modelBackFaceColorSetting_Lab,
+QLabel:disabled#HighlightContourColor_Lab {
+    color: rgb(170, 172, 177);
+}
+QLabel:disabled#PathSelect_Label {
+    color: rgb(191, 193, 198);
+}
+QLabel:disabled#time_Label {
+    color: rgb(214, 217, 223);
+}
+QLineEdit:disabled#time_LineEdit {
+    color: rgb(191, 193, 198);
+}
+QLineEdit:disabled#backupPath_LineEdit {
+    color: rgb(207, 211, 217);
+}
+QPushButton:disabled#browseButton_backupPath,
+QPushButton:disabled#backFaceColorSetting_Btn,
+QPushButton:disabled#highlightContourColorSetting_Btn {
+    border: 1px solid rgb(155, 191, 245);
+    color: rgb(155, 191, 245);
+}
