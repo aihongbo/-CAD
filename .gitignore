@@ -1,0 +1,60 @@
+# ---- 本地工具 / 状态 ----
+.claude/
+.idea/
+.vscode/
+
+# ---- 打包产物 / 归档 ----
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# ---- 大体积媒体文件 ----
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.webm
+*.mkv
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ---- C/C++ 构建产物 ----
+*.obj
+*.o
+*.ilk
+*.tlog
+*.suo
+*.user
+*.pdb
+*.idb
+.vs/
+build/
+out/
+
+# ---- 预编译二进制 / 第三方库产物（源码与自有头文件仍会提交）----
+*.lib
+*.dll
+*.exe
+*.a
+*.so
+*.dylib
+*.dll.a
+
+# ---- 第三方依赖（体积大、可单独获取，不纳入本仓库源码提交）----
+# C++ 侧第三方库源码与头文件（QWindowKit / SARibbonBar / nlohmann_json / ormpp 等）
+CppCAEPre/3rdparty/
+# SDK 内第三方内核头文件（OpenCASCADE）与嵌入式 Python 头文件
+SDK/inc/OCC/
+SDK/inc/python3*/
+# SDK 编译产物目录（动态库 / 静态库）
+SDK/bin/
+SDK/lib/
+
+# ---- 系统文件 ----
+.DS_Store
+Thumbs.db

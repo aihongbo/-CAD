@@ -1,0 +1,13 @@
+
+导出BDF脚本前置条件：
+
+1.python需要安装pyNastran库，安装步骤如下：
+  打开命令提示符，输入pip install pyNastran
+  等待安装完成即可
+  
+2.打开"bdf_config.json"，输入 输出目录路径和文件名称，注意文件路径应以"/"为符号，如：
+   "OutPutPath": "D:/导出BDF脚本"
+   文件名称应携带后缀".bdf"，如：
+		"OutPutFileName": "freq_modal.bdf"
+		
+3.执行导出功能前，应该在视图中选中网格对象
