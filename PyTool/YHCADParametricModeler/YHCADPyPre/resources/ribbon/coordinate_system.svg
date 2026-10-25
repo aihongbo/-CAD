@@ -1,0 +1,58 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_16" x1="5.10644531" x2="9.0309763" y1="22.9482422" y2="34.0886612" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(242,89,72)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(255,77,79)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_17" x1="5.10644531" x2="22.8816013" y1="14.6835938" y2="14.6835938" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(43,197,97)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(52,199,89)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_18" x1="0" x2="0" y1="1" y2="0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(47,128,237)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(59,130,246)" offset="1" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g id="基准坐标系">
+		<rect id="矩形 1049" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(248,249,251)" fill-opacity="0" />
+		<g id="组合 1701">
+			<path id="矩形 1052" d="M5.23216 9.29301L17.6019 6.75537L17.6019 17.5553L5.12598 23.2575L5.23216 9.29301Z" fill="rgb(143,156,184)" fill-opacity="0.100000001" fill-rule="evenodd" />
+			<path id="矩形 1052" d="M17.6019 6.75537L17.6019 17.5553L5.12598 23.2575L5.23216 9.29301L17.6019 6.75537Z" fill-rule="evenodd" stroke="rgb(204,206,224)" stroke-linejoin="round" stroke-width="0.800000" />
+			<path id="矩形 1051" d="M4.97852 9.25195L18.579 14.5256L18.579 27.6173L5.07205 22.8525L4.97852 9.25195Z" fill="rgb(143,156,184)" fill-opacity="0.100000001" fill-rule="evenodd" />
+			<path id="矩形 1051" d="M18.579 14.5256L18.579 27.6173L5.07205 22.8525L4.97852 9.25195L18.579 14.5256Z" fill-rule="evenodd" stroke="rgb(204,206,224)" stroke-opacity="0.729999959" stroke-linejoin="round" stroke-width="0.800000" />
+			<path id="矩形 1053" d="M17.4314 17.6538L29.0167 22.138L18.6647 27.6172L5.40332 23.1155L17.4314 17.6538Z" fill="rgb(143,156,184)" fill-opacity="0.100000001" fill-rule="evenodd" />
+			<path id="矩形 1053" d="M29.0167 22.138L18.6647 27.6172L5.40332 23.1155L17.4314 17.6538L29.0167 22.138Z" fill-rule="evenodd" stroke="rgb(204,206,224)" stroke-linejoin="round" stroke-width="0.800000" />
+			<g id="组合 1700">
+				<path id="Vector" d="M5.10645 22.9482L22.8807 29.2097" stroke="url(#paint_linear_16)" stroke-linecap="round" stroke-width="1.500000" />
+				<path id="Vector" d="M5.10645 23.1588L22.8816 14.6836" stroke="url(#paint_linear_17)" stroke-linecap="round" stroke-width="1.500000" />
+				<path id="Vector" d="M16.9796 1.08108e-05L0 0" stroke="url(#paint_linear_18)" stroke-linecap="round" stroke-width="1.500000" transform="matrix(0,1,-1,0,5.10645,5.96875)" />
+				<g id="Group">
+					<path id="Vector" d="M5.08638 6.73844C5.77482 6.73844 6.33292 6.45574 6.33292 6.10701C6.33292 5.75828 5.77482 5.47559 5.08638 5.47559C4.39794 5.47559 3.83984 5.75828 3.83984 6.10701C3.83984 6.45574 4.39794 6.73844 5.08638 6.73844Z" opacity="0.600000024" fill="rgb(31,95,168)" fill-rule="evenodd" />
+					<path id="Vector" d="M3.83984 6.10675L5.08638 3.58105L6.33292 6.10675L3.83984 6.10675Z" fill="rgb(59,130,246)" fill-rule="nonzero" />
+					<path id="Vector" d="M3.83984 6.10675L5.08638 3.58105L6.33292 6.10675" fill-rule="nonzero" stroke="rgb(47,128,237)" stroke-width="0.207506" />
+				</g>
+				<g id="Group">
+					<path id="Vector" d="M1.26295 1.40695C1.95139 1.40695 2.49307 0.980151 2.49307 0.631425C2.49307 0.282698 1.93498 0 1.24654 0C0.558093 0 0 0.282698 0 0.631425C0 0.980151 0.574508 1.40695 1.26295 1.40695Z" opacity="0.600000024" fill="rgb(34,153,84)" fill-rule="evenodd" transform="matrix(0.403876,0.914814,-0.914814,0.403876,22.6631,13.4146)" />
+					<path id="Vector" d="M0 2.5257L1.24654 0L2.49307 2.5257L0 2.5257Z" fill="rgb(52,199,89)" fill-rule="nonzero" transform="matrix(0.403876,0.914814,-0.914814,0.403876,24.3965,12.6494)" />
+					<path id="Vector" d="M0 2.5257L1.24654 0L2.49307 2.5257" fill-rule="nonzero" stroke="rgb(45,190,96)" stroke-width="0.207506" transform="matrix(0.403876,0.914814,-0.914814,0.403876,24.3965,12.6494)" />
+				</g>
+				<g id="Group">
+					<path id="Vector" d="M1.26295 1.40695C1.95139 1.40695 2.49307 0.980151 2.49307 0.631425C2.49307 0.282698 1.93498 0 1.24654 0C0.558093 0 0 0.282698 0 0.631425C0 0.980151 0.574508 1.40695 1.26295 1.40695Z" opacity="0.600000024" fill="rgb(192,57,43)" fill-rule="evenodd" transform="matrix(-0.250303,0.968167,-0.968167,-0.250303,23.6191,28.1753)" />
+					<path id="Vector" d="M0 2.5257L1.24654 0L2.49307 2.5257L0 2.5257Z" fill="rgb(255,77,79)" fill-rule="nonzero" transform="matrix(-0.250303,0.968167,-0.968167,-0.250303,25.4531,28.6494)" />
+					<path id="Vector" d="M0 2.5257L1.24654 0L2.49307 2.5257" fill-rule="nonzero" stroke="rgb(231,76,60)" stroke-width="0.207506" transform="matrix(-0.250303,0.968167,-0.968167,-0.250303,25.4531,28.6494)" />
+				</g>
+				<path id="Vector" d="M5.10677 24.3819C5.77358 24.3819 6.31413 23.8342 6.31413 23.1587C6.31413 22.4832 5.77358 21.9355 5.10677 21.9355C4.43997 21.9355 3.89941 22.4832 3.89941 23.1587C3.89941 23.8342 4.43997 24.3819 5.10677 24.3819Z" fill="rgb(107,114,128)" fill-rule="evenodd" />
+				<path id="Vector" d="M5.10677 24.3819C4.43997 24.3819 3.89941 23.8342 3.89941 23.1587C3.89941 22.4832 4.43997 21.9355 5.10677 21.9355C5.77358 21.9355 6.31413 22.4832 6.31413 23.1587C6.31413 23.8342 5.77358 24.3819 5.10677 24.3819Z" fill-rule="evenodd" stroke="rgb(255,255,255)" stroke-width="0.415012" />
+				<g id="X">
+					<path id="矢量 788" d="M26.0478 27.7808L26.9882 27.7808L27.7799 29.1177L27.8102 29.1177L28.6057 27.7808L29.5423 27.7808L28.3449 29.7434L29.5699 31.7046L28.615 31.7046L27.8102 30.3651L27.7799 30.3651L26.9751 31.7046L26.0254 31.7046L27.253 29.7434L26.0478 27.7808Z" fill="rgb(54,65,83)" fill-rule="evenodd" />
+				</g>
+				<g id="Y">
+					<path id="矢量 789" d="M27.0548 13.4168L25.623 10.8799L26.553 10.8799L27.4473 12.5698L27.4855 12.5698L28.3799 10.8799L29.3098 10.8799L27.8781 13.4168L27.8781 14.8038L27.0548 14.8038L27.0548 13.4168Z" fill="rgb(54,65,83)" fill-rule="evenodd" />
+				</g>
+				<g id="Z">
+					<path id="矢量 790" d="M10.4723 6.21928L7.46782 6.21928L7.46782 5.72665L9.42514 2.97902L7.46387 2.97902L7.46387 2.29541L10.4683 2.29541L10.4683 2.78803L8.50839 5.53566L10.4723 5.53566L10.4723 6.21928Z" fill="rgb(54,65,83)" fill-rule="evenodd" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

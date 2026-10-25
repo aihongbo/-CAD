@@ -1,0 +1,12 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<g id="清空">
+		<rect id="矩形 6" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" transform="matrix(-1,0,0,1,34,0)" />
+		<g id="组合 21">
+			<path id="矢量 44" d="M2.36369 25.1979L10.011 25.1979M2.36369 29.5678L14.3809 29.5678" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 45" d="M31.6363 12.0795L23.989 4.43216L7.60184 23.0042L14.1567 29.5591L16.3416 29.5591L31.6363 12.0795Z" fill="rgb(56,182,255)" fill-rule="evenodd" />
+			<path id="矢量 45" d="M31.6363 12.0795L16.3416 29.5591L14.1567 29.5591L7.60184 23.0042L23.989 4.43216L31.6363 12.0795Z" fill-rule="evenodd" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 46" d="M20.4218 24.9149L13.0642 17.2004L7.60184 23.0043L14.1567 29.5591L16.1037 29.4798L20.4218 24.9149Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+			<path id="矢量 46" d="M20.4218 24.9149L16.1037 29.4798L14.1567 29.5591L7.60184 23.0043L13.0642 17.2004L20.4218 24.9149Z" fill-rule="evenodd" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		</g>
+	</g>
+</svg>

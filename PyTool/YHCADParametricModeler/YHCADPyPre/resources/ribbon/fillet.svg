@@ -1,0 +1,91 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_6" x1="12.2922564" x2="12.2922564" y1="4.11621094" y2="11.462326" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(204,211,234)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(199,203,216)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<g id="pixso_custom_effect_3">
+			<effect x="2.400000" y="-1.100000" visibility="visible" fill="rgb(255,255,255)" fill-opacity="1" effectType="innerShadow" stdDeviation="0" radius="0" />
+		</g>
+		<filter id="filter_3" width="12.102539" height="15.583984" x="18.904297" y="15.307617" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_3)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend result="shape" in="SourceGraphic" in2="BackgroundImageFix" mode="normal" />
+			<feOffset dx="2.400000" dy="-1.100000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="0" />
+			<feComposite k2="-1" k3="1" in2="SourceAlpha" operator="arithmetic" />
+			<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 " />
+			<feBlend result="effect_innerShadow_1" in2="shape" mode="normal" />
+		</filter>
+		<linearGradient id="paint_linear_7" x1="20.3501015" x2="29.9266167" y1="22.0612106" y2="23.8347244" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(212,227,234)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(194,213,222)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<g id="pixso_custom_effect_4">
+			<effect x="2.000000" y="-1.500000" visibility="visible" fill="rgb(255,255,255)" fill-opacity="1" effectType="innerShadow" stdDeviation="0" radius="0" />
+		</g>
+		<filter id="filter_4" width="21.948242" height="17.645020" x="9.036133" y="5.296875" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_4)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend result="shape" in="SourceGraphic" in2="BackgroundImageFix" mode="normal" />
+			<feOffset dx="2.000000" dy="-1.500000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="0" />
+			<feComposite k2="-1" k3="1" in2="SourceAlpha" operator="arithmetic" />
+			<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 " />
+			<feBlend result="effect_innerShadow_1" in2="shape" mode="normal" />
+		</filter>
+		<linearGradient id="paint_linear_8" x1="29.7542057" x2="13.6164532" y1="16.5629463" y2="10.1554565" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(0,170,249)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(130,213,255)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<g id="pixso_custom_effect_5">
+			<effect x="1.400000" y="-2.000000" visibility="visible" fill="rgb(255,255,255)" fill-opacity="1" effectType="innerShadow" stdDeviation="0" radius="0" />
+		</g>
+		<filter id="filter_5" width="18.579102" height="9.229492" x="3.022461" y="3.107422" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_5)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feBlend result="shape" in="SourceGraphic" in2="BackgroundImageFix" mode="normal" />
+			<feOffset dx="1.400000" dy="-2.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="0" />
+			<feComposite k2="-1" k3="1" in2="SourceAlpha" operator="arithmetic" />
+			<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 " />
+			<feBlend result="effect_innerShadow_1" in2="shape" mode="normal" />
+		</filter>
+		<linearGradient id="paint_linear_9" x1="8.43580627" x2="13.6367598" y1="10.8863068" y2="2.45905352" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(212,227,234)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(224,240,246)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_10" x1="4.70535946" x2="18.3356819" y1="10.4887667" y2="28.9206848" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(217,231,237)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(175,198,208)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_11" x1="18.8681641" x2="20.0502148" y1="9.3719368" y2="13.1453972" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(255,255,255)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(255,255,255)" offset="1" stop-opacity="0.159999996" />
+		</linearGradient>
+	</defs>
+	<g id="圆角">
+		<rect id="矩形 1051" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(248,249,251)" fill-opacity="0" />
+		<g id="组合 1077">
+			<path id="polygon" d="M20.8374 6.04741L9.76782 11.4623L3.74707 8.93789L15.8265 4.11621L20.8374 6.04741Z" fill="url(#paint_linear_6)" fill-opacity="0" fill-rule="nonzero" />
+			<g filter="url(#filter_3)">
+				<path id="polygon" d="M30.219 16.0576L19.6543 22.192L19.6543 30.1417L30.2569 23.6855L30.219 16.0576Z" fill="url(#paint_linear_7)" fill-rule="nonzero" />
+				<path id="polygon" d="M19.6543 22.192L19.6543 30.1417L30.2569 23.6855L30.219 16.0576L19.6543 22.192Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linejoin="round" stroke-width="1.500000" />
+			</g>
+			<path id="polygon" d="M19.6543 22.192L19.6543 30.1417L30.2569 23.6855L30.219 16.0576L19.6543 22.192Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linejoin="round" stroke-width="1.500000" data-pixso-skip-parse="true" />
+			<g filter="url(#filter_4)">
+				<path id="path" d="M19.6568 22.1914L30.2343 15.9143C28.6777 8.59501 20.8433 6.04736 20.8433 6.04736L9.78613 11.4624L11.1998 12.1818C14.6692 13.9664 17.1936 16.6423 18.7732 20.2096L19.6568 22.1914Z" fill="url(#paint_linear_8)" fill-rule="evenodd" />
+				<path id="path" d="M19.6568 22.1914L18.7732 20.2096C17.1936 16.6423 14.6692 13.9664 11.1998 12.1818L9.78613 11.4624L20.8433 6.04736C20.8433 6.04736 28.6777 8.59501 30.2343 15.9143L19.6568 22.1914Z" fill-rule="evenodd" stroke="rgb(45,63,84)" stroke-linejoin="round" stroke-width="1.500000" />
+			</g>
+			<path id="path" d="M19.6568 22.1914L18.7732 20.2096C17.1936 16.6423 14.6692 13.9664 11.1998 12.1818L9.78613 11.4624L20.8433 6.04736C20.8433 6.04736 28.6777 8.59501 30.2343 15.9143L19.6568 22.1914Z" fill-rule="evenodd" stroke="rgb(45,63,84)" stroke-linejoin="round" stroke-width="1.500000" data-pixso-skip-parse="true" />
+			<g id="组合 1076">
+				<g filter="url(#filter_5)">
+					<path id="polygon" d="M20.8527 6.04191L10.123 11.5872L3.77246 9.02943L14.6727 3.85742L20.8527 6.04191Z" fill="url(#paint_linear_9)" fill-rule="nonzero" />
+					<path id="polygon" d="M10.123 11.5872L3.77246 9.02943L14.6727 3.85742L20.8527 6.04191L10.123 11.5872Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linejoin="round" stroke-width="1.500000" />
+				</g>
+				<path id="polygon" d="M10.123 11.5872L3.77246 9.02943L14.6727 3.85742L20.8527 6.04191L10.123 11.5872Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linejoin="round" stroke-width="1.500000" data-pixso-skip-parse="true" />
+				<path id="path" d="M3.74316 20.473L19.642 30.1429L19.6419 22.1912C16.5903 11.3392 3.74317 9.19238 3.74317 9.19238L3.74316 20.473Z" fill="url(#paint_linear_10)" fill-rule="evenodd" />
+				<path id="path" d="M3.74316 20.473L3.74317 9.19238C3.74317 9.19238 16.5903 11.3392 19.6419 22.1912L19.642 30.1429L3.74316 20.473Z" fill-rule="evenodd" stroke="rgb(45,63,84)" stroke-linejoin="round" stroke-width="1.500000" />
+			</g>
+			<path id="矢量 800" d="M23.2705 8.01611L14.6738 12.7312C14.6738 13.2868 16.9504 14.5472 17.7524 14.4097C18.5442 14.0412 18.7854 13.9832 21.0459 12.7313C23.3064 11.4793 23.2752 13.8143 24.4205 13.4063C25.5658 12.9983 25.0299 11.1503 26.3259 12.2515C27.6218 13.3528 28.6195 13.3137 27.9138 12.2515C27.208 11.1894 25.5612 9.34879 23.2705 8.01611Z" fill="url(#paint_linear_11)" fill-opacity="0.899999976" fill-rule="evenodd" />
+			<path id="矢量 800" d="M23.2705 8.01611C25.5612 9.34879 27.208 11.1894 27.9138 12.2515C28.6195 13.3137 27.6218 13.3528 26.3259 12.2515C25.0299 11.1503 25.5658 12.9983 24.4205 13.4063C23.2752 13.8143 23.3064 11.4793 21.0459 12.7313C18.7854 13.9832 18.5442 14.0412 17.7524 14.4097C16.9504 14.5472 14.6738 13.2868 14.6738 12.7312L23.2705 8.01611Z" fill-rule="evenodd" stroke="rgb(255,255,255)" stroke-opacity="0" stroke-width="1.000000" />
+		</g>
+	</g>
+</svg>

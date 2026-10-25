@@ -1,0 +1,18 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_19" x1="25.5692749" x2="8.6321373" y1="27.6786499" y2="6.2004261" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(221,227,242)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(239,248,255)" offset="1" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g id="基准平面">
+		<rect id="矩形 1045" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(248,249,251)" fill-opacity="0" />
+		<g id="组合 1716">
+			<path id="矩形 1047" d="M8.80725 5.5L29.7605 5.5C30.3984 5.5 30.8732 6.0892 30.7377 6.71252L26.1703 27.7125C26.0703 28.1722 25.6635 28.5 25.1931 28.5L4.23989 28.5C3.602 28.5 3.12717 27.9108 3.26274 27.2875L7.8301 6.28748C7.93007 5.82783 8.33686 5.5 8.80725 5.5Z" fill="url(#paint_linear_19)" fill-rule="evenodd" />
+			<path id="矩形 1047" d="M29.7605 5.5C30.3984 5.5 30.8732 6.0892 30.7377 6.71252L26.1703 27.7125C26.0703 28.1722 25.6635 28.5 25.1931 28.5L4.23989 28.5C3.602 28.5 3.12717 27.9108 3.26274 27.2875L7.8301 6.28748C7.93007 5.82783 8.33686 5.5 8.80725 5.5L29.7605 5.5Z" fill-rule="evenodd" stroke="rgb(45,63,84)" stroke-width="1.500000" />
+			<path id="矢量 784" d="M6.04395 17L27.7864 17" stroke="rgb(152,168,187)" stroke-linecap="butt" stroke-dasharray="3 1 " stroke-width="1.000000" />
+			<path id="矢量 785" d="M0 0L21.7425 0" stroke="rgb(152,168,187)" stroke-linecap="butt" stroke-dasharray="3 1 " stroke-width="1.000000" transform="matrix(-0.258819,0.965926,-0.965926,-0.258819,19.7295,6.50049)" />
+			<circle id="椭圆 140" cx="16.999609" cy="17.0000973" r="1.39999998" fill="rgb(244,84,77)" />
+		</g>
+	</g>
+</svg>

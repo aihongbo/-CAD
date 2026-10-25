@@ -1,0 +1,15 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<g id="更多约束">
+		<rect id="矩形 54" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 64">
+			<path id="矢量 131" d="M5.0426 4.28094L5.0426 25.4794L23.0613 25.4794" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 132" d="M5.0426 21.2397L9.28228 21.2397L9.28228 25.4794" fill-rule="nonzero" stroke="rgb(56,182,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 133" d="M20.9414 11.7004L28.3609 11.7004M20.9414 14.8802L28.3609 14.8802" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<g id="组合 65">
+				<circle id="椭圆 10" cx="19.4180908" cy="28.6591187" r="1.05992055" fill="rgb(56,182,255)" />
+				<circle id="椭圆 11" cx="23.6577759" cy="28.6591187" r="1.05992055" fill="rgb(56,182,255)" />
+				<circle id="椭圆 12" cx="27.8974609" cy="28.6591187" r="1.05992055" fill="rgb(56,182,255)" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<g id="斜角">
+		<rect id="矩形 13" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 30">
+			<path id="矢量 69" d="M13.6998 3.79916L25.0148 9.45667L28.7865 13.2283L28.7865 24.5434L22.186 30.2009L5.2135 22.6575L5.2135 8.51376L13.6998 3.79916Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 70" d="M18.4144 14.1713L25.0148 9.45667L28.7865 13.2283L22.186 18.8859L18.4144 14.1713Z" fill="rgb(56,182,255)" fill-rule="nonzero" />
+			<path id="矢量 70" d="M25.0148 9.45667L28.7865 13.2283L22.186 18.8859L18.4144 14.1713L25.0148 9.45667Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 71" d="M18.4144 14.1713L22.186 18.8859L22.186 30.2009L18.4144 28.4606L18.4144 14.1713Z" fill="rgb(56,182,255)" fill-rule="nonzero" />
+			<path id="矢量 71" d="M22.186 18.8859L22.186 30.2009L18.4144 28.4606L18.4144 14.1713L22.186 18.8859Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 72" d="M5.2135 8.51376L18.4144 14.1713M22.186 18.8859L28.7865 13.2284" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		</g>
+	</g>
+</svg>

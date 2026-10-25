@@ -1,0 +1,30 @@
+{
+
+    "dllPath" : 
+        "../../SDK_72",
+    "addKernelPath":
+    [
+        "OCC"
+    ],
+    "loadDLL":[
+        "ncti_command.dll",
+        "ncti_object.dll",
+        "ncti_plugin.dll",
+        "ncti_geom_engine.dll",
+        "ncti_gm_model_function.dll",
+        "ncti_geom_engine.dll",
+        "ncti_gm_model_function.dll",
+        "ncti_occ_plugin.dll",
+        "ncti_doc_occ.dll",
+        "ncti_render_vulkan.dll",
+        "ncti_sketch.dll",
+        "yh_object.dll",
+        "yh_command.dll",
+        "ncti_dcm_plugin.dll",
+        "ncti_dcm_project.dll",
+        "ncti_dcm3_plugin.dll",
+        "ncti_dcm3_project.dll",
+        "ncti_expr_plugin.dll"
+    ]
+
+}

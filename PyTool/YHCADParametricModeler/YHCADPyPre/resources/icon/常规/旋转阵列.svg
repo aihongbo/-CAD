@@ -1,0 +1,32 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<g id="旋转阵列">
+		<rect id="矩形 11" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 31">
+			<ellipse id="椭圆 1" rx="13.000000" ry="9.000000" cx="17" cy="19.5" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 2 " stroke-width="1.500000" />
+			<g id="组合 32">
+				<path id="矢量 73" d="M13 5.5L17 3.5L21 5.5L21 10.5L17 12.5L13 10.5L13 5.5Z" fill="rgb(255,255,255)" fill-rule="nonzero" />
+				<path id="矢量 73" d="M17 3.5L21 5.5L21 10.5L17 12.5L13 10.5L13 5.5L17 3.5Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+				<path id="矢量 74" d="M17 7.5L21 5.5L21 10.5L17 12.5L17 7.5Z" fill="rgb(56,182,255)" fill-rule="nonzero" />
+				<path id="矢量 74" d="M21 5.5L21 10.5L17 12.5L17 7.5L21 5.5Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+				<path id="矢量 75" d="M13 5.5L17 7.5L17 12.5" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+			</g>
+			<g id="组合 33">
+				<path id="矢量 76" d="M2 23.5L6 21.5L10 23.5L10 28.5L6 30.5L2 28.5L2 23.5Z" fill="rgb(255,255,255)" fill-rule="nonzero" />
+				<path id="矢量 76" d="M6 21.5L10 23.5L10 28.5L6 30.5L2 28.5L2 23.5L6 21.5Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+				<path id="矢量 77" d="M6 25.5L10 23.5L10 28.5L6 30.5L6 25.5Z" fill="rgb(56,182,255)" fill-rule="nonzero" />
+				<path id="矢量 77" d="M10 23.5L10 28.5L6 30.5L6 25.5L10 23.5Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+				<path id="矢量 78" d="M2 23.5L6 25.5L6 30.5" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+			</g>
+			<g id="组合 34">
+				<path id="矢量 79" d="M24 23.5L28 21.5L32 23.5L32 28.5L28 30.5L24 28.5L24 23.5Z" fill="rgb(255,255,255)" fill-rule="nonzero" />
+				<path id="矢量 79" d="M28 21.5L32 23.5L32 28.5L28 30.5L24 28.5L24 23.5L28 21.5Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+				<path id="矢量 80" d="M28 25.5L32 23.5L32 28.5L28 30.5L28 25.5Z" fill="rgb(56,182,255)" fill-rule="nonzero" />
+				<path id="矢量 80" d="M32 23.5L32 28.5L28 30.5L28 25.5L32 23.5Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+				<path id="矢量 81" d="M24 23.5L28 25.5L28 30.5" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+			</g>
+			<path id="矢量 82" d="M11.6681 27.642C15.0014 28.9753 19.3447 28.6306 21.413 27.642" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 83" d="M20.413 25.642L23.413 26.642L21.413 29.642L20.413 25.642Z" fill="rgb(46,70,97)" fill-rule="nonzero" />
+			<path id="矢量 83" d="M23.413 26.642L21.413 29.642L20.413 25.642L23.413 26.642Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		</g>
+	</g>
+</svg>

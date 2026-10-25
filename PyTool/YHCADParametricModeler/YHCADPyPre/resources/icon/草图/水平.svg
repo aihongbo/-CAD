@@ -1,0 +1,11 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<g id="水平">
+		<rect id="矩形 29" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 63">
+			<path id="矢量 129" d="M5 14.2L29 14.2" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 130" d="M10 21.2L24 21.2" stroke="rgb(56,182,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<rect id="矩形 36" width="2.800000" height="2.800000" x="3.600006" y="12.800003" fill="rgb(56,182,255)" />
+			<rect id="矩形 37" width="2.799999" height="2.800000" x="27.600006" y="12.800003" fill="rgb(56,182,255)" />
+		</g>
+	</g>
+</svg>

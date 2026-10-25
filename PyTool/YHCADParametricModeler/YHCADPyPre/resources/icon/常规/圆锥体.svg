@@ -1,0 +1,10 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<g id="圆锥体">
+		<rect id="矩形 20" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 43">
+			<path id="矢量 107" d="M29.9857 25.5C30.6523 28.1667 26.319 29.8333 16.9857 30.5C7.65233 29.8333 3.319 28.1667 3.98567 25.5L16.9857 3.5L29.9857 25.5Z" fill-rule="nonzero" stroke="rgb(119,119,119)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.100000" />
+			<path id="矢量 108" d="M16.9857 3.5L29.9857 25.5C30.6523 27.5 27.9857 29.0333 21.9857 30.1L16.9857 3.5Z" fill="rgb(56,182,255)" fill-rule="nonzero" />
+			<path id="矢量 109" d="M29.9857 25.5C30.6523 28.1667 26.6704 30.5 16.9857 30.5C7.30091 30.5 3.319 28.1667 3.98567 25.5L16.9857 3.5L29.9857 25.5Z" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		</g>
+	</g>
+</svg>

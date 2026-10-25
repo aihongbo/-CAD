@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Copyright (c) 2025 粤港澳大湾区（广东）国创中心
+YHCADPyPre is licensed under Mulan PSL v2.
+You can use this software according to the terms and conditions of the Mulan PSL v2.
+You may obtain a copy of Mulan PSL v2 at:
+         http://license.coscl.org.cn/MulanPSL2
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
+EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
+MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
+See the Mulan PSL v2 for more details.
+"""
+
+def pyncti_sketch_ShowStrongCons(NCTI, doc, sketch, is_show=1):
+    if sketch and hasattr(sketch, "ShowStrongCons"):
+        result = sketch.ShowStrongCons(is_show)
+        print(f"pyncti_sketch_ShowStrongCons: result={result}, type={type(result)}")
+        doc.Update()
+        return result
+    print("pyncti_sketch_ShowStrongCons: missing active sketch")
+    return 0

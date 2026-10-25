@@ -1,0 +1,23 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_1" x1="8.4628582" x2="26.4628582" y1="6.97143364" y2="28.1857204" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(231,246,254)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(208,224,231)" offset="0.620000005" stop-opacity="1" />
+			<stop stop-color="rgb(181,203,212)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="paint_linear_2" x1="10.4428596" x2="23.9428577" y1="3.89216447" y2="8.39216423" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(134,214,255)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(36,182,251)" offset="1" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g id="圆柱体">
+		<rect id="矩形 1261" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 1916">
+			<path id="矢量 1019" d="M8 6.07143L8 27.2857C8 29.4714 12.05 31.1429 17 31.1429C21.95 31.1429 26 29.4714 26 27.2857L26 6.07143L8 6.07143Z" fill="url(#paint_linear_1)" fill-rule="nonzero" />
+			<path id="矢量 1019" d="M8 27.2857C8 29.4714 12.05 31.1429 17 31.1429C21.95 31.1429 26 29.4714 26 27.2857L26 6.07143L8 6.07143L8 27.2857Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<ellipse id="椭圆 216" rx="9.000000" ry="3.214286" cx="17" cy="6.07142735" fill="url(#paint_linear_2)" />
+			<ellipse id="椭圆 216" rx="9.000000" ry="3.214286" cx="17" cy="6.07142735" stroke="rgb(45,63,84)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 1020" d="M10.5714 10.565L10.5714 24.7143" opacity="0.75" stroke="rgb(244,251,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.285715" />
+		</g>
+	</g>
+</svg>

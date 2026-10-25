@@ -1,0 +1,15 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<g id="直径半径切换">
+		<rect id="矩形 63" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 78">
+			<circle id="椭圆 22" cx="14.5" cy="14.5" r="11" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 160" d="M3.5 14.5L25.5 14.5" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 161" d="M14.5 14.5L22.28 6.72" stroke="rgb(56,182,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<circle id="椭圆 23" cx="14.5000057" cy="14.5000057" r="1.39999962" fill="rgb(56,182,255)" />
+			<g id="组合 79">
+				<path id="矢量 162" d="M6.05518 8.33736L7.05518 8.33736C8.38851 8.33736 9.05518 9.09044 9.05518 10.5966C9.05518 12.1028 8.38851 12.8559 7.05518 12.8559L6.05518 12.8559L6.05518 8.33736ZM14.0552 9.46698L14.0552 4.94849L15.5552 4.94849C16.8885 4.94849 17.5552 5.32503 17.5552 6.07811C17.5552 6.83119 16.8885 7.20773 15.5552 7.20773L14.0552 7.20773M15.5552 7.20773L17.5552 9.46698" fill-rule="nonzero" stroke="rgb(46,70,97)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.000000" />
+			</g>
+			<path id="矢量 163" d="M22.5 28.5L30.5 28.5M24.5 30.5L22.5 28.5L24.5 26.5M28.5 30.5L30.5 28.5L28.5 26.5" stroke="rgb(56,182,255)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.400000" />
+		</g>
+	</g>
+</svg>

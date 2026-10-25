@@ -1,0 +1,19 @@
+<svg viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.000000" height="34.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_0" x1="16.9999924" x2="28.9441719" y1="12.894762" y2="27.6946125" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(231,246,254)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(198,216,224)" offset="1" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g id="正方体">
+		<rect id="矩形 1260" width="34.000000" height="34.000000" x="0.000000" y="0.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+		<g id="组合 1917">
+			<path id="矢量 1021" d="M4.71689 9.73684L17 3.42105L29.2831 9.73684L17 16.6842L4.71689 9.73684Z" fill="rgb(244,251,255)" fill-rule="nonzero" />
+			<path id="矢量 1021" d="M17 3.42105L29.2831 9.73684L17 16.6842L4.71689 9.73684L17 3.42105Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 1022" d="M4.71689 9.73684L17 16.6842L17 30.579L4.71689 23.6316L4.71689 9.73684L4.71689 9.73684Z" fill="rgb(194,213,221)" fill-rule="nonzero" />
+			<path id="矢量 1022" d="M17 16.6842L17 30.579L4.71689 23.6316L4.71689 9.73684L4.71689 9.73684L17 16.6842Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+			<path id="矢量 1023" d="M17 16.6842L29.2831 9.73684L29.2831 23.6316L17 30.579L17 16.6842L17 16.6842Z" fill="url(#paint_linear_0)" fill-rule="nonzero" />
+			<path id="矢量 1023" d="M29.2831 9.73684L29.2831 23.6316L17 30.579L17 16.6842L17 16.6842L29.2831 9.73684Z" fill-rule="nonzero" stroke="rgb(45,63,84)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.500000" />
+		</g>
+	</g>
+</svg>
