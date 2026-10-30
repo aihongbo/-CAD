@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>code_completer.json</file>
-        <file>code_style_dark.xml</file>
-        <file>code_style_light.xml</file>
-    </qresource>
-</RCC>

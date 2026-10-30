@@ -1,8 +1,0 @@
-{
-    "BDF_CONFIG": {
-        "SOL": 111,
-        "OutPutPath": "D:/炎核BDF脚本",
-		"OutPutFileName": "freq_modal.bdf",
-        "BitLength": 8
-    }
-}
